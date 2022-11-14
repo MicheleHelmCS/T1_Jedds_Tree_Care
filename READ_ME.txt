@@ -1,0 +1,1 @@
+HTML file was renamed from jtc_index to index.html to properly work on GitHub Pages.
